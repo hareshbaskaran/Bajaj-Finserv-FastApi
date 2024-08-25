@@ -1,0 +1,22 @@
+#fast-api
+fastapi
+uvicorn
+pydantic
+pydantic[email]
+firebase-admin
+
+#security
+passlib
+python-jose
+python-dotenv
+python-multipart
+bcrypt
+
+# formatting
+black
+
+# tests
+pytest
+pytest-cov
+coverage
+pytest-xdist
